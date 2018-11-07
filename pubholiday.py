@@ -4,7 +4,7 @@
 # Import the Requests: HTTP for Humans library
 import requests
 
-# This function returns information about a country from restcoutnries.eu. The response is JSON. We use it
+# This function returns information about a country from restcountries.eu. The response is JSON. We use it
 # to search against user input to find the two digit country code to be used in the second API call.
 
 
